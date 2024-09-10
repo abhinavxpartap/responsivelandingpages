@@ -1,0 +1,66 @@
+{
+    "banner": {
+        "title":"Lorem ipsum dolor sit amet,ut enim ad minima",
+        "desc":" Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid",
+        "button":"Download Now",
+        "Gimg":"/image/Mobile app store badge.png",
+        "Aimg":"/image/Mobile app store badge (1).png",
+        "bgImg":"/image/backg.png"
+
+    },
+    "section2":{
+        "title":"Lorem ipsum dolor sit amet,ut enim ad minima",
+        "desc":" Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid",
+        "starimg":"/image/Star 5.png",
+        "Mobilel":"/image/ip15.png",
+        "Mobiler":"/image/ip15px.png"
+    },
+    "section3":{
+        "title":"Lorem ipsum dolor sit amet,ut enim ad minima",
+        "desc":"Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis.",
+        "Mobile":"/image/iPhone14.png",
+        "starimg":"/image/section3pic.png"
+
+    },
+    "section4":{
+        "title":"Lorem ipsum dolor sit amet,ut enim ad minima",
+        "desc":" Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid",
+        "starimg":"/image/starb.png",
+        "Mobilel":"/image/iPhoneLeft.png",
+        "Mobiler":"/image/iPhoneRight.png"
+    },
+    "section5":{
+        "title":"Lorem ipsum dolor sit amet,ut enim ad minima",
+        "desc":"Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis.",
+        "Mobile":"/image/iPhone14.png",
+        "starimg":"/image/Starblack.png"
+
+    },
+    "section6":{
+        "title":"ready to get started?",
+        "desc":" Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid",
+        "Gimg":"/image/appleblack (4).png",
+        "Aimg":"/image/appleblack (3).png",
+        "starimg":"/image/Star 9.png",
+        "Mobile":"/image/iPhone 13 Pro.png",
+         "semicl":"/image/Ellipseleft.png",
+         "semicr":"/image/Ellipseright.png"
+
+    },
+    "section7":{
+        "title":"Things to read",
+        "desc":"We wrote you a worthy blogs",
+        "starimg":"/image/starb.png"
+    },
+    "contactUs":{
+        "title":"Connent with us.",
+        "desc":"Get in touch with us. Lorem Ipsum available.",
+        "starimg":"/image/starb.png",
+        "Photo1" :"/image/uns1.png",
+        "Photo2" :"/image/uns5.png",
+        "Photo3" :"/image/uns4.png",
+        "Photo4" :"/image/un3.png",
+        "Photo5" :"/image/uns2.png",
+        "Photo6" :"/image/uns6.png"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "data" :[
+        {
+    
+        "title":"Lorem ipsum Dolor",
+        "desc":"Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+
+         },
+        {
+    
+         "title":"Lorem ipsum Dolor",
+        "desc":"Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+    
+         },
+         {
+    
+         "title":"Lorem ipsum Dolor",
+         "desc":"Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+        
+         },
+         {
+    
+            "title":"Lorem ipsum Dolor",
+            "desc":"Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+            
+          }
+    ],
+    "Newdata" : [
+        {
+            "catg":"Fashion",
+            "title":"How much Does It Cost to Build a FinTech App?",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod adipiscing elit, sed do eiusmod",
+            "img": "/image/Rectangle 4.jpg" ,
+            "date":"12 August 2021",
+            "read":"Read more >>"
+        },
+        {
+            "catg":"Fashion",
+            "title":"How much Does It Cost to Build a FinTech App?",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod adipiscing elit, sed do eiusmod",
+            "img": "/image/Rectangle 4 (1).jpg",
+            "date":"12 August 2021",
+            "read":"Read more >>"
+        },
+        {
+            "catg":"Fashion",
+            "title":"How much Does It Cost to Build a FinTech App?",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod adipiscing elit, sed do eiusmod",
+            "img": "/image/Rectangle 4 (2).jpg" ,
+            "date":"12 August 2021" ,
+            "read":"Read more >>" 
+        }
+    ],
+    "Slider":[
+        {
+           "image":"/image/sliderpic1.png"
+        },
+        {
+            "image":"/image/slider2.png"
+        },
+        {
+            "image":"/image/slider3.png"
+        },
+        {
+            "image":"/image/slider4.png"
+        }
+    ]
+}
