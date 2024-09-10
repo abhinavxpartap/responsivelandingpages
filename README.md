@@ -20,6 +20,9 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Note 
+there are different pages to see the u can use [http://localhost:3000/NewHome] ,[http://localhost:3000/Newpage], [http://localhost:3000](enjoy monday banner will be displayed on defaut at 3000 )
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
